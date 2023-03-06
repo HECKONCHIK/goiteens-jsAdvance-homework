@@ -28,3 +28,15 @@
 
 /* Завданння №2 */
 
+.timer {
+    display: inline-block;
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+
+.timer span {
+    display: inline-block;
+    width: 40px;
+    text-align: center;
+}
